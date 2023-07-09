@@ -1,0 +1,9 @@
+{
+  "domain": "https://api.nasa.gov",
+  "basePath": "/mars-photos/api/v1/rovers",
+  "services": {
+    "curiosity": "/curiosity",
+    "opportunity": "/opportunity",
+    "spirit": "/spirit"
+  }
+}
